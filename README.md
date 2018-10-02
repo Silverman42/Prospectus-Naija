@@ -1,4 +1,4 @@
-# Letter-Creation-Web-App
+# Prospectus Naija
 <b>Create and print letters, formal and informal, from anywhere </b>
 # How To use on local host 
 -Download either XAMPP or WAMP <br/>
